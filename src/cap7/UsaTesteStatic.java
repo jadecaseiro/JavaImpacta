@@ -11,7 +11,6 @@ public class UsaTesteStatic {
 		JOptionPane.showMessageDialog(null, "Minha Mensagem");
 		int x = 10;
 		JOptionPane.showInputDialog("Entre com x", x);
-		System.out.println(x);
 	}
 
 }
