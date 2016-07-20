@@ -5,8 +5,6 @@ import javax.swing.JOptionPane;
 public class UsaTesteStatic {
 	public static void main(String[] args) {
 		TesteStatic.mostrar(4);
-		TESTE TESTE TESTE
-	
 		TesteStatic.mostrar(5.77);
 		TesteStatic.mostrar("Jade");
 		JOptionPane.showMessageDialog(null, "Minha Mensagem");
